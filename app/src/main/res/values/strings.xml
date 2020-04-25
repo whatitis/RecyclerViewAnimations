@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewAnimations</string>
+    <string name="snack_bar_text">Removed</string>
+    <string name="snack_bar_undo">Undo</string>
+</resources>
